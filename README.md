@@ -9,7 +9,6 @@ This pattern of the application we're going to build is commonly used as part of
 
 > **_NOTE:_**  However, extensibility won't be a problem, since you'll be able to customize and feed the retrieved content to an LLM easily by routing it through a PromptTemplate, and then pass it to an LLM for analysis, summarisation or any other task.
 
-![Architecture](./media/upstash_news_search_engine_system_architecture.png)
 
 <b>Here's what we're going to learn how to: </b>
 - ingest articles from news APIs
@@ -20,21 +19,11 @@ This pattern of the application we're going to build is commonly used as part of
 
 ## Table of Contents
 
-- [Articles](#articles)
 - [Dependencies](#dependencies)
 - [Install](#install)
 - [Usage](#usage)
 - [Notes](#notes)
 
-
-
-
-## Articles
-
-This is a code-first summary version, make sure to read the article in full ↓
-
-1. [Summary]()
-2. [Full](https://medium.com/decodingml/how-to-build-a-real-time-news-search-engine-using-serverless-upstash-kafka-and-vector-db-6ba393e55024)
 
 ## Dependencies
 
